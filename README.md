@@ -1,0 +1,2 @@
+# poc-quarkus-tracing
+test
